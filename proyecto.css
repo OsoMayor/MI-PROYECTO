@@ -1,0 +1,597 @@
+h3 {
+    font-size: 2em;
+}
+
+h2 {
+    font-size:3em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.cambiopb {
+    font-size: 23px;
+    padding-bottom: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: rgb(0, 0, 0);
+    font-family: Verdana;
+}
+
+.comprar {
+border-radius: 15px;
+background-color: black;
+color:white;
+width: 210px;
+font-family: Verdana;
+font-size: 10px;
+height: 50px;
+font-size: 13px;
+text-align: center;
+margin-left: 171px;
+margin-top: -29px;
+margin-bottom: 0px;
+}
+
+
+
+header {
+    background-color: red;
+    color: blue;
+    padding: 0 10%;
+}
+
+header>h1 {
+    display: inline-block;
+    margin-left: 30px;
+    font-size: 6.5em;
+}
+
+#logo {
+    width: 150px;
+}
+
+nav {
+    margin: 10px 10%;
+}
+
+nav>a {
+    padding: 100px;
+    font-size: 30px;
+}
+
+.imageness {
+    width: 500px;
+    height: 400px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.imageneses {
+    width: 600px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+#pantalla-derecha-1 {
+    margin-right: 15px;
+    margin-left: 25px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    width: 601px;
+    height: 580px;
+    float: left;
+    padding: 0px;
+}
+
+#cambio_tostada_con_pollo {
+    height: 400px;
+}
+
+#pantalla-derecha-2 {
+    margin-right: 15px;
+    margin-left: 25px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    width: 601px;
+    height: 580px;
+    padding: 0px;
+    float: left;
+}
+
+#imagen_cambio {
+    height: 400px;
+}
+
+#pantalla-derecha-3 {
+    margin-right: 15px;
+    margin-left: 25px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    width: 601px;
+    height: 600px;
+    padding: 0px;
+    float: left;
+}
+
+#cambio_chile_nogada {
+    height: 400px;
+}
+
+#pantalla-derecha-4 {
+    margin-right: 15px;
+    margin-left: 25px;
+    margin-bottom: 0px;
+    margin-top: 15px;
+    width: 601px;
+    height: 580px;
+    padding: 0px;
+    float: left;
+}
+
+#pantalla-izquierda-2 {
+    margin-right: 15px;
+    margin-left: 25px;
+    margin-bottom: 0px;
+    margin-top: 15px;
+    width: 601px;
+    height: 580px;
+    padding: 0px;
+    float: left;
+}
+
+#pantalla-izquierda-3 {
+    margin-right: 15px;
+    margin-left: 25px;
+    margin-bottom: 0px;
+    margin-top: 15px;
+    width: 601px;
+    height: 580px;
+    padding: 0px;
+    float: left;
+}
+
+#pantalla-izquierda-4 {
+    margin-right: 15px;
+    float: left;
+    margin-left: 25px;
+    margin-bottom: 0px;
+    margin-top: 80px;
+    width: 601px;
+    height: 550px;
+    padding: 0px;
+}
+
+#pantalla_derecha_17 {
+    margin-right: 15px;
+    float: left;
+    margin-left: 25px;
+    margin-bottom: 0px;
+    margin-top: -540px;
+    width: 601px;
+    height: 550px;
+    padding: 0px;
+}
+
+#pantalla_izquierda_17 {
+    margin-right: 15px;
+    float: left;
+    margin-left: 25px;
+    margin-bottom: 0px;
+    margin-top: -540px;
+    width: 601px;
+    height: 50px;
+    padding: 0px;
+}
+
+#cambio_desayunos {
+    text-align: center;
+}
+
+#aver_si_funciona{
+   color: red;
+   width: 100px;
+   height: 20px;
+   margin-left: 860px;
+
+}
+
+#pantalla-derecha-13 {
+    float: left;
+    margin-right: 15px;
+    margin-left: 25px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    width: 601px;
+    height: 510px;
+    padding: 0px;
+}
+
+#pantalla-derecha-14 {
+    margin-right: 15px;
+    margin-left: 25px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    width: 601px;
+    float: left;
+    height: 510px;
+    padding: 0px;
+}
+
+#cambio_omelet {
+    height: 330px;
+}
+
+#pantalla-izquierda-13 {
+    margin-right: 15px;
+    margin-left: 25px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    width: 601px;
+    float: left;
+    height: 510px;
+    padding: 0px;
+}
+
+#pantalla-izquierda-14 {
+    margin-right: 15px;
+    margin-left: 25px;
+    margin-bottom: 0px;
+    margin-top: 30px;
+    width: 601px;
+    float: left;
+    height: 550px;
+    padding: 0px;
+}
+
+#pantalla-derecha-15 {
+    margin-right: 15px;
+    margin-left: 25px;
+    margin-bottom: 0px;
+    margin-top: 30px;
+    width: 601px;
+    height: 550;
+    padding: 0px;
+    float: left;
+}
+
+#torta_pollo {
+    height: 380px;
+}
+
+#pantalla-derecha-16 {
+    margin-right: 15px;
+    float: left;
+    margin-left: 25px;
+    margin-bottom: 0px;
+    margin-top: 30px;
+    width: 601px;
+    height: 560px;
+    padding: 0px;
+}
+
+#enchiladas {
+    height: 385px;
+}
+
+#pantalla-izquierda-15 {
+    margin-right: 15px;
+    margin-left: 25px;
+    margin-bottom: 0px;
+    margin-top: 30px;
+    width: 601px;
+    height: 520px;
+    padding: 0px;
+    float: left;
+}
+
+#pantalla-izquierda-16 {
+    margin-right: 15px;
+    margin-left: 25px;
+    margin-bottom: 0px;
+    float: left;
+    margin-top: 30px;
+    width: 601px;
+    height: 520px;
+    padding: 0px;
+}
+
+#mollete {
+    height: 345px;
+}
+
+#pantalla-izquierda-17 {
+    margin-right: 15px;
+    margin-left: 25px;
+    margin-bottom: 0px;
+    float: left;
+    margin-top: 30px;
+    width: 601px;
+    height: 520px;
+    padding: 0px;
+}
+
+#nose {
+    height: 345px;
+}
+
+#pantalla-derecha-5 {
+    margin-right: 15px;
+    float: left;
+    margin-left: 25px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    width: 601px;
+    height: 565px;
+    padding: 0px;
+}
+
+#frappe-Unicornio {
+    width: 601px;
+}
+
+#pantalla-derecha-6 {
+    margin-right: 15px;
+    margin-left: 25px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    width: 601px;
+    height: 565px;
+    padding: 0px;
+    float: left;
+}
+
+#frappe-moca {
+    width: 600px;
+}
+
+#pantalla-derecha-7 {
+    margin-right: 15px;
+    margin-left: 25px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    width: 601px;
+    float: left;
+    height: 575px;
+    padding: 0px;
+}
+
+#marquesitas {
+    width: 600px;
+}
+
+#pantalla-derecha-8 {
+    margin-right: 15px;
+    margin-left: 25px;
+    margin-bottom: 0px;
+    margin-top: 30px;
+    width: 601px;
+    float: left;
+    height: 580px;
+    padding: 0px;
+}
+
+#Mamut {
+    width: 601px;
+}
+
+#pantalla-izquierda-5 {
+    margin-right: 15px;
+    margin-left: 25px;
+    margin-bottom: 0px;
+    margin-top: 30px;
+    width: 601px;
+    float: left;
+    height: 580px;
+    padding: 0px;
+}
+
+#Oreo {
+    width: 601px;
+}
+
+#pantalla-izquierda-6 {
+    margin-right: 15px;
+    margin-left: 25px;
+    margin-bottom: 0px;
+    margin-top: 30px;
+    width: 601px;
+    float: left;
+    height: 580px;
+    padding: 0px;
+}
+
+#Mazapan {
+    width: 602px;
+}
+
+#pantalla-izquierda-7 {
+    margin-right: 15px;
+    margin-left: 25px;
+    margin-bottom: 0px;
+    margin-top: 30px;
+    width: 601px;
+    float: left;
+    height: 580px;
+    padding: 0px;
+}
+
+#chocorol {
+    width: 601px;
+}
+
+#pantalla-izquierda-8 {
+    margin-right: 15px;
+    margin-left: 25px;
+    margin-bottom: 0px;
+    margin-top: 30px;
+    width: 601px;
+    float: left;
+    height: 580px;
+    padding: 0px;
+}
+
+#Mazaguino {
+    width: 601px;
+}
+
+#pantalla-izquierda-81 {
+    margin-right: 15px;
+    margin-left: 25px;
+    margin-bottom: 0px;
+    margin-top: 30px;
+    width: 601px;
+    float: left;
+    height: 580px;
+    padding: 0px;
+}
+
+#Mazzapan {
+    width: 601px;
+}
+
+#pantalla-derecha-9 {
+    margin-right: 15px;
+    margin-left: 25px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    width: 601px;
+    float: left;
+    height: 540px;
+    padding: 0px;
+}
+
+#Mango {
+    width: 601px;
+}
+
+#pantalla-derecha-10 {
+    margin-right: 15px;
+    margin-left: 25px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    width: 601px;
+    float: left;
+    height: 540px;
+    padding: 0px;
+}
+
+#Guanabana {
+    width: 601px;
+}
+
+#pantalla-derecha-11 {
+    margin-right: 15px;
+    margin-left: 25px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    width: 601px;
+    float: left;
+    height: 540px;
+    padding: 0px;
+}
+
+#Limon {
+    width: 601px;
+}
+
+#pantalla-derecha-12 {
+    margin-right: 15px;
+    margin-left: 25px;
+    margin-bottom: 0px;
+    margin-top: 30px;
+    width: 601px;
+    height: 540px;
+    float: left;
+    padding: 0px;
+}
+
+#Coca {
+    width: 601px;
+}
+
+#pantalla-izquierda-9 {
+    margin-right: 15px;
+    margin-left: 25px;
+    margin-bottom: 0px;
+    margin-top: 30px;
+    width: 601px;
+    float: left;
+    height: 540px;
+    padding: 0px;
+}
+
+#Pepsi {
+    width: 601px;
+}
+
+#pantalla-izquierda-10 {
+    margin-right: 15px;
+    margin-left: 25px;
+    margin-bottom: 0px;
+    margin-top: 30px;
+    width: 601px;
+    height: 540px;
+    float: left;
+    padding: 0px;
+}
+
+#Jamaica {
+    width: 601px;
+}
+
+#pantalla-izquierda-11 {
+    margin-right: 15px;
+    margin-left: 25px;
+    margin-bottom: 0px;
+    margin-top: 30px;
+    width: 601px;
+    height: 540px;
+    float: left;
+    padding: 0px;
+}
+
+#Horchata {
+    width: 601px;
+}
+
+#pantalla-izquierda-12 {
+    float: left;
+    margin-right: 15px;
+    margin-left: 25px;
+    margin-bottom: 0px;
+    margin-top: 30px;
+    width: 605px;
+    height: 540px;
+    padding: 0px;
+}
+
+#Tamarindo {
+    width: 601px;
+}
+
+#pantalla-izquierda-111 {
+    margin-right: 15px;
+    margin-left: 25px;
+    margin-bottom: 0px;
+    margin-top: 30px;
+    width: 601px;
+    height: 540px;
+    float: left; 
+    padding: 0px;
+}
+
+#Horchataa {
+    width: 601px;
+}
+
+.sub-title {
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+.h3 {
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    font-family: cursive;
+}
+
